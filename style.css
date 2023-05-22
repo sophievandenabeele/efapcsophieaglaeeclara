@@ -1,0 +1,107 @@
+h1{
+	color:  #088395;
+	font-family: 'Sedgwick Ave Display', cursive;
+	 }
+h2{color: #D61355;
+font-family: arial}
+
+h3{color:#D61355  }
+h4{color: #05BFDB;
+font-family: arial}
+
+p{font-family: arial;
+font-size: 20px;}
+
+body{text-align: center;font-family:  arial;
+background-color: #6DFFD5;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg stroke='%23000' stroke-width='66.7' stroke-opacity='0.05' %3E%3Ccircle fill='%236DFFD5' cx='0' cy='0' r='1800'/%3E%3Ccircle fill='%2364f1ca' cx='0' cy='0' r='1700'/%3E%3Ccircle fill='%235be2bf' cx='0' cy='0' r='1600'/%3E%3Ccircle fill='%2352d4b5' cx='0' cy='0' r='1500'/%3E%3Ccircle fill='%234ac6aa' cx='0' cy='0' r='1400'/%3E%3Ccircle fill='%2342b89f' cx='0' cy='0' r='1300'/%3E%3Ccircle fill='%233aab94' cx='0' cy='0' r='1200'/%3E%3Ccircle fill='%23339d89' cx='0' cy='0' r='1100'/%3E%3Ccircle fill='%232c907e' cx='0' cy='0' r='1000'/%3E%3Ccircle fill='%23258373' cx='0' cy='0' r='900'/%3E%3Ccircle fill='%231f7669' cx='0' cy='0' r='800'/%3E%3Ccircle fill='%2318695e' cx='0' cy='0' r='700'/%3E%3Ccircle fill='%23125d54' cx='0' cy='0' r='600'/%3E%3Ccircle fill='%230d5149' cx='0' cy='0' r='500'/%3E%3Ccircle fill='%2307453f' cx='0' cy='0' r='400'/%3E%3Ccircle fill='%23043a35' cx='0' cy='0' r='300'/%3E%3Ccircle fill='%23012f2b' cx='0' cy='0' r='200'/%3E%3Ccircle fill='%23002421' cx='0' cy='0' r='100'/%3E%3C/g%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: cover;
+}
+
+ul{text-align: left;font-family: arial;}
+ol{text-align: left;font-family: arial;}
+
+.square{background-color: #B9EDDD;
+border: dashed 0.5px darkturquoise;
+border-radius: 25px;
+padding: 10px;
+margin: 10px;
+box-shadow: 2px 2px 2px paleturquoise;
+}
+
+
+.rectangle{background-color: #B9EDDD;
+border: dashed 0.5px #0A4D68;
+border-radius: 25px;
+padding: 10px;
+margin: 10px;
+box-shadow: 2px 2px 2px paleturquoise;
+}
+
+
+.circle{background-color: #B9EDDD;
+border: dashed 0.5px darkturquoise;
+border-radius: 25px;
+padding: 10px;
+margin: 10px;
+box-shadow: 2px 2px 2px paleturquoise;
+}
+
+
+.losange{background-color: #B9EDDD;
+border: dashed 0.5px darkturquoise;
+border-radius: 25px;
+padding: 10px;
+margin: 10px;
+box-shadow: 2px 2px 2px paleturquoise;
+}
+
+.avatar{
+	object-fit: cover;
+	border-radius: 200px;
+	box-shadow: 10px 10px 10px darkturquoise;
+	margin: 20px;
+	height: 200px;
+	width: 200px;
+
+}
+
+.box1 {
+  background: white;
+  width: 100%;
+  height: 500px;
+
+ 
+  
+}
+
+.box2 {
+  height: 50px;
+  width: 20%;
+  background: #EE9CA7;
+}
+
+.box3 {
+  background: #C86472;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.box4 {
+  height: 50px;
+  width: 50%;
+  background: #9F3442;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+
+.mapinfo {
+  background: #C86472;  
+  display: flex;
+  justify-content: space-between;
+ align-items: flex-start;
+}
+
